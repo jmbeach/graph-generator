@@ -1,0 +1,4 @@
+node_modules
+dist
+.vscode
+generated-graph.txt
